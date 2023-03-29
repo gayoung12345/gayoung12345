@@ -1,38 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90&animation=s)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=GaYoung%20KIM&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=gayoung12345)](https://github.com/gayoung12345)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayoung12345)](https://github.com/gayoung12345/github-readme-stats)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=gayoung12345)](https://github.com/gayoung12345)
 
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
-
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
----
-
-**bold** <br>
-*italic* <br>
-~~strikethrough~~ <br>
-
-* 1번
-* 2번
-- 3번
-- 4번
-- 
-[네이버](https://www.naver.com)
+# Studing📖
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
-```
-print('파이썬코딩')
-```
-😏
-😂
--[x]체크박스
--[]체크박스
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+# Tools💻
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
