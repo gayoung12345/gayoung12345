@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=GaYoung%20KIM&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Introduce%20me&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=444444)
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=gayoung12345)](https://github.com/gayoung12345)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayoung12345)](https://github.com/gayoung12345/github-readme-stats)
 
